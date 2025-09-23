@@ -3,7 +3,7 @@
 
 
 # Who am I?
-My name is Zach! I made this wiki to show off all of the projects I've worked on in the past and present.
+My name is Zach! I made this wiki to show off all of the projects I've worked on in the past and present. I will also be documenting my educational journey!
 
 
 ### Ways to connect with me:
