@@ -3,8 +3,8 @@
 
 
 # Who am I?
-My name is Zach, but most people call me Abyss! I made this wiki to show off all of the projects I've worked on in the past and present.
+My name is Zach! I made this wiki to show off all of the projects I've worked on in the past and present.
 
 
 ### Ways to connect with me:
-[Github](https://github.com/abyssexe) | [X](https://x.com/AbyssGGzX) | [YouTube](https://youtube.com/@AbyssGGz) | [Kick](https://kick.com/abyssggz)
+[Github](https://github.com/zyorks)
