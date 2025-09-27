@@ -76,7 +76,7 @@ graph TD
     VLAN30 --> CTFd[CTFd Container]
     VLAN30 --> JuiceShop[JuiceShop Container]
     VLAN40 --> Suricata[IDS/Suricata Sensor]
-
+```
 
 ## VMs and OS Choices
 
